@@ -1,0 +1,19 @@
+body{
+    background-color: blueviolet;
+}
+
+.o{
+    font-size: 30px;
+    padding: 8px;
+    margin-left: 500px;
+    margin-top: 400px;
+background-color: white;
+margin-right: 600px;
+}
+.bf{
+    font-size: 25px;
+    padding: 5px;
+    outline: none;
+    border: none;
+}
+
